@@ -23,8 +23,8 @@ ________________________________________________________________________________
 
 ## Learning Path Repository: Bangkit Capstone Team "FaceU" C23-PS429
 
-| Learning Path      | Repository Link                                                                  | 
-| -----------------  | -------------------------------------------------------------------------------- |  
-| Mobile Development | [FaceU-Android](https://github.com/rudistiawannn/FaceU-Android.git)              |  
-| Cloud Computing    | [FaceU-Cloud Computing](https://github.com/QueenAgella/FaceU-API-CloudComputing) | 
-| Machine Learning   |                                                                                  | 
+| Learning Path      | Repository Link                                                                             | 
+| -----------------  | ------------------------------------------------------------------------------------------- |  
+| Mobile Development | [FaceU-Android](https://github.com/rudistiawannn/FaceU-Android.git)                         |  
+| Cloud Computing    | [FaceU-Cloud Computing](https://github.com/QueenAgella/FaceU-API-CloudComputing)            | 
+| Machine Learning   | [FaceU-Machine Learning](https://github.com/Rozaki17/Bangkit-Capstone-Machine_Learning.git) | 
