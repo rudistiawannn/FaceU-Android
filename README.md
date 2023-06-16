@@ -25,9 +25,7 @@ ________________________________________________________________________________
 * [Prototype](https://www.figma.com/proto/nMeLEBV7oGS4p0ewxUaHVY/FaceU?page-id=0%3A1&type=design&node-id=108-29&viewport=320%2C2220%2C0.48&scaling=scale-down&starting-point-node-id=108%3A29)
 
 ## Design
-![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/Face%20analyze.png?raw=true)|
-![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/Login%20faceu.png?raw=true)
-
+![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/Face%20analyze.png?raw=true) ![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/Login%20faceu.png?raw=true) ![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/Register.png?raw=true) ![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/Upload%20method.png?raw=true) ![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/face.png?raw=true)
 
 ## Learning Path Repository: Bangkit Capstone Team "FaceU" C23-PS429
 
