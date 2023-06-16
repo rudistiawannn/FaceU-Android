@@ -8,14 +8,14 @@ ________________________________________________________________________________
 
 ## Team : Bangkit Capstone Team "FaceU" C23-PS429
 
-| Name                        | Bangkit ID   | Learning Path      | Contacts                    | Status |
-| --------------------------- | ------------ | ------------------ | --------------------------- | ------ |
-| Mursyidhan Ariefbillah A.M. | A240DSX1237  | Mobile Development | mursyidhan7@gmail.com       | Active |
-| Lalu Rudi Setiawan          | A240DSX1120  | Mobile Development | rudistiawannn@gmail.com     | Active |
-| Hervin Fakhrul Mahardika    | C301DSX3337  | Cloud Computing    | C301DSX3337@bangkit.academy | Active |
-| Kornelius Setiawan          | C361DSX0929  | Cloud Computing    | C361DSX0929@bangkit.academy | Active |
-| Muhamad Rozaki              | M240DSX0431  | Machine Learning   | M240DSX0431@bangkit.academy | Active |
-| Handini Jayantika           | M295DSY2596  | Machine Learning   | M295DSY2596@bangkit.academy | Active |
+| Name                        | Bangkit ID   | Learning Path      | Contacts                      | Status |
+| --------------------------- | ------------ | ------------------ | ----------------------------- | ------ |
+| Mursyidhan Ariefbillah A.M. | A240DSX1237  | Mobile Development | [![Mursyidhan Ariefbillah A.M.](https://github.com/rudistiawannn/FaceU-Android/blob/main/gmail%201.png)](mailto:mursyidhan7@gmail.com) [![Mursyidhan Ariefbillah A.M.](https://github.com/rudistiawannn/FaceU-Android/blob/main/linkedin%201.png)](https://www.linkedin.com/in/mursyidhan-ariefbillah-20626b245/)  | Active |
+| Lalu Rudi Setiawan          | A240DSX1120  | Mobile Development | [![Lalu Rudi Setiawan](https://github.com/rudistiawannn/FaceU-Android/blob/main/gmail%201.png)](mailto:rudistiawannn@gmail.com) [![Lalu Rudi Setiawan](https://github.com/rudistiawannn/FaceU-Android/blob/main/linkedin%201.png)](https://www.linkedin.com/in/lalu-rudi-setiawan-213405225/)       | Active |
+| Hervin Fakhrul Mahardika    | C301DSX3337  | Cloud Computing    | [![Hervin Fakhrul Mahardika](https://github.com/rudistiawannn/FaceU-Android/blob/main/gmail%201.png)](mailto:C301DSX3337@bangkit.academy) [![Hervin Fakhrul Mahardika](https://github.com/rudistiawannn/FaceU-Android/blob/main/linkedin%201.png)](http://linkedin.com/in/hervinfakhrul)     | Active |
+| Kornelius Setiawan          | C361DSX0929  | Cloud Computing    | [![Kornelius Setiawan](https://github.com/rudistiawannn/FaceU-Android/blob/main/gmail%201.png)](mailto:korneliussetiawan13@gmail.com) [![Kornelius Setiawan](https://github.com/rudistiawannn/FaceU-Android/blob/main/linkedin%201.png)](http://linkedin.com/in/korneliussetiawan) | Active |
+| Muhamad Rozaki              | M240DSX0431  | Machine Learning   | [![Muhamad Rozaki](https://github.com/rudistiawannn/FaceU-Android/blob/main/gmail%201.png)](mailto:rozakky17402@gmail.com) [![Muhamad Rozaki](https://github.com/rudistiawannn/FaceU-Android/blob/main/linkedin%201.png)](http://www.linkedin.com/in/muhamad-rozaki-2b7405247)        | Active |
+| Handini Jayantika           | M295DSY2596  | Machine Learning   | [![Handini Jayantika](https://github.com/rudistiawannn/FaceU-Android/blob/main/gmail%201.png)](mailto:handini.ka@gmail.com) [![Handini Jayantika](https://github.com/rudistiawannn/FaceU-Android/blob/main/linkedin%201.png)](https://www.linkedin.com/in/handinij/)          | Active |
 
 ## Mobile Development Tools
 ![alt text](https://github.com/rudistiawannn/FaceU-Android/blob/main/toolsmd.png?raw=true)
