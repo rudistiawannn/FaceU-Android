@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 | Name                        | Bangkit ID   | Learning Path      | Contacts                    | Status |
 | --------------------------- | ------------ | ------------------ | --------------------------- | ------ |
-| Mursyidhan Ariefbillah A.M. | A240DSX1237  | Mobile Development | A240DSX1237@bangkit.academy | Active |
+| Mursyidhan Ariefbillah A.M. | A240DSX1237  | Mobile Development | mursyidhan7@gmail.com       | Active |
 | Lalu Rudi Setiawan          | A240DSX1120  | Mobile Development | rudistiawannn@gmail.com     | Active |
 | Hervin Fakhrul Mahardika    | C301DSX3337  | Cloud Computing    | C301DSX3337@bangkit.academy | Active |
 | Kornelius Setiawan          | C361DSX0929  | Cloud Computing    | C361DSX0929@bangkit.academy | Active |
